@@ -1,7 +1,2 @@
-# meta-barebones-layout
-
-The code in this repo is taken directly from the video
-"Bare bones layout" in the course "HTML and CSS in depth"
-offered by Meta Staff on Coursera. It is only intended to
-be used for educational purposes. No copyright infringement
-is intended.
+Will help you to optimize your page for the search engines.
+Also in the index you will find some Meta tags for Social Media Optimization
